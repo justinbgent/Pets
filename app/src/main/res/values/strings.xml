@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pets</string>
+    <string name="Favorite_Animals">Favorite Animals</string>
+    <string name="Turtles">Turtles</string>
+    <string name="Penguins">Penguins</string>
+    <string name="Horses">Horses</string>
+    <string name="Cats">Cats</string>
 </resources>
